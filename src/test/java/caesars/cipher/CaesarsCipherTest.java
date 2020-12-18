@@ -18,8 +18,8 @@ class CaesarsCipherTest {
 		assertEquals("", caesarsCipher.cipher("", 12));
 	}
 
-//	@Test
-//	void testCipheredMessageWithOffsetOf11(){
-//		assertEquals("tai mdq kag pauzs fapmk", caesarsCipher.cipher("how are you doing today", 11));
-//	}
+	@Test
+	void testCipheredMessageWithOffsetOf11(){
+		assertEquals("szh lcp jzf oztyr ezolj", caesarsCipher.cipher("how are you doing today", 11));
+	}
 }
