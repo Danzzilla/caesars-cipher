@@ -8,6 +8,7 @@ using and to get the hang of uploading my projects and code to GitHub.
   * Eclipse IDE
   * Github
   * CircleCI
+  * Gradle Projects
 * Testing code
 * Creating different project branches
 * Built more knowledge on top of what I already know
